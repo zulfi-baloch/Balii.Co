@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-label="Balli.Co" style="color:#FFFCF4">
+  <title>Balli.Co</title>
+  <g fill="none" stroke="currentColor" stroke-width="6">
+    <path d="M19 10V54"/>
+    <path d="M19 10H33C41 10 45 14.5 45 20.5S41 31 33 31H19"/>
+    <path d="M19 31H36C45 31 49.5 36 49.5 42.5S45 54 36 54H19"/>
+  </g>
+  <circle cx="58.5" cy="51" r="4.5" fill="#FF6115"/>
+  <text x="82" y="43" font-family="'Bodoni Moda','Didot','Playfair Display',Georgia,serif" font-size="34" font-weight="500" letter-spacing="1" fill="currentColor">Balli<tspan fill="#FF6115">.</tspan>Co</text>
+</svg>

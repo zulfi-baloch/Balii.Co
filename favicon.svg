@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Balli.Co</title>
+  <rect width="64" height="64" rx="12" fill="#17120D"/>
+  <g transform="translate(0.4 6.4) scale(0.8)">
+    <g fill="none" stroke="#FFFCF4" stroke-width="6">
+      <path d="M19 10V54"/>
+      <path d="M19 10H33C41 10 45 14.5 45 20.5S41 31 33 31H19"/>
+      <path d="M19 31H36C45 31 49.5 36 49.5 42.5S45 54 36 54H19"/>
+    </g>
+    <circle cx="58.5" cy="51" r="4.5" fill="#FF6115"/>
+  </g>
+</svg>
